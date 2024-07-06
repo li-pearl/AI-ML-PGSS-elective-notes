@@ -141,8 +141,8 @@ The __Sigmoid__ function produces a value between 0 and 1, so it is intuitieve w
 
 The __Rectified Linear__ activation function is zero when the input is negative and is equal to the input when the input is positive. Rectified Linear activation functions are currently the most popular activation function as they are more efficient than the sigmoid or hyperbolic tangent.
 
-- Sparse activation: In a randomly initialized network, only 50% of hidden units ae active
-- Better gradient propagation: Fewer vanishing gradient problems compared to sigmoidal activation functions
+- Sparse activation: In a randomly initialized network, only 50% of hidden units are active
+- Better gradient propagation: Fewer vanishing gradient problems compared to sigmoidal activation functions that saturate in both directions
 - Efficient computation: Only comparison, maybe addition and multiplication for variants
 - There are __Leaky__ and __Noisy__ varients
 
