@@ -95,4 +95,17 @@ Discriminative models classify things, and need only know which side of the hype
 Generative models need to understand the distribution to generate new instances
 - Must understand the joint probability P(X,Y)
 
+## Generative Networks
+
+### Architectures
+
+With the layers we have discussed, we can build countless different networks (and use Tensorflow to defin them). The current "building block" is actually a functional network.
+
+- YOLO (You Only Look Once)
+- Generative Adversarial Network
+- AlexNet
+- Mask R-CNN
+- GoogLeNet/Inception
+
+
 
