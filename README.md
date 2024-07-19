@@ -6,3 +6,11 @@
 
 [Lecture 3](Lecture3.md)
 
+[Lecture 4](Lecture4.md)
+
+[Lecture 5](Lecture5.md)
+
+[Lecture 6](Lecture6.md)
+
+[Lecture 7](Lecture7.md)
+
